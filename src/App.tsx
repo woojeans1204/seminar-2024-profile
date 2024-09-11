@@ -8,7 +8,7 @@ function App() {
           <li>컴퓨터공학부 24학번 안우진</li>
           <li>INFJ</li>
           <li>개발 공부가 처음입니다!</li>
-          <li>잘 부탁드립니다</li>
+          <li>잘 부탁드립니당</li>
         </ul>
       </div>
     </div>
